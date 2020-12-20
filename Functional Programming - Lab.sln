@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Sort Even Numbers", "01. Sort Even Numbers\01. Sort Even Numbers.csproj", "{DF0ADE70-0343-4E18-9DDB-B9F7CF09B3D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Sum Numbers Practice", "02. Sum Numbers\02. Sum Numbers Practice.csproj", "{9EAAFBDE-896E-445E-B4A5-4D3DF76DBF11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Actions", "Actions\Actions.csproj", "{F06CC838-852B-478D-98E3-979974AAA944}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum Numbers", "Sum Numbers\Sum Numbers.csproj", "{279875A3-D1E5-47F1-B2C1-829F85C46C26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count Uppercase Words", "Count Uppercase Words\Count Uppercase Words.csproj", "{04F9DB90-4F9F-4E30-AAEC-8DE0155E3C9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Add VAT", "04. Add VAT\04. Add VAT.csproj", "{127E8F57-8868-44E6-B501-0C118C667A9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filter by Age", "Filter by Age\Filter by Age.csproj", "{044B76D8-E289-448F-AE90-839F69249415}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF0ADE70-0343-4E18-9DDB-B9F7CF09B3D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF0ADE70-0343-4E18-9DDB-B9F7CF09B3D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF0ADE70-0343-4E18-9DDB-B9F7CF09B3D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF0ADE70-0343-4E18-9DDB-B9F7CF09B3D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EAAFBDE-896E-445E-B4A5-4D3DF76DBF11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EAAFBDE-896E-445E-B4A5-4D3DF76DBF11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EAAFBDE-896E-445E-B4A5-4D3DF76DBF11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EAAFBDE-896E-445E-B4A5-4D3DF76DBF11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F06CC838-852B-478D-98E3-979974AAA944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F06CC838-852B-478D-98E3-979974AAA944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F06CC838-852B-478D-98E3-979974AAA944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F06CC838-852B-478D-98E3-979974AAA944}.Release|Any CPU.Build.0 = Release|Any CPU
+		{279875A3-D1E5-47F1-B2C1-829F85C46C26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{279875A3-D1E5-47F1-B2C1-829F85C46C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{279875A3-D1E5-47F1-B2C1-829F85C46C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{279875A3-D1E5-47F1-B2C1-829F85C46C26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04F9DB90-4F9F-4E30-AAEC-8DE0155E3C9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04F9DB90-4F9F-4E30-AAEC-8DE0155E3C9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04F9DB90-4F9F-4E30-AAEC-8DE0155E3C9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04F9DB90-4F9F-4E30-AAEC-8DE0155E3C9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{127E8F57-8868-44E6-B501-0C118C667A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{127E8F57-8868-44E6-B501-0C118C667A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{127E8F57-8868-44E6-B501-0C118C667A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{127E8F57-8868-44E6-B501-0C118C667A9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{044B76D8-E289-448F-AE90-839F69249415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{044B76D8-E289-448F-AE90-839F69249415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{044B76D8-E289-448F-AE90-839F69249415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{044B76D8-E289-448F-AE90-839F69249415}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {393E9DBB-D119-4B2C-AA03-64EA2A7C762B}
+	EndGlobalSection
+EndGlobal
